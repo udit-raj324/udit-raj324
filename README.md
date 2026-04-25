@@ -6,6 +6,6 @@ I'm a passionate **Data Analyst** with **hands-on experience** in **Python**, as
 [![Email](https://img.shields.io/badge/Email-uy37004@gmail.com-blue)](mailto:uy37004@gmail.com) 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHADOW-RTX&show_icons=true&theme=codeSTACKr">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOW-RTX&theme=codeSTACKr&hide_border=false&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udit-raj324&show_icons=true&theme=codeSTACKr">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udit-raj324&theme=codeSTACKr&hide_border=false&langs_count=5" />
 </p>
